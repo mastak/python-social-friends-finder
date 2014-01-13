@@ -1,0 +1,8 @@
+0.1 - 2014-01-14
+----------------
+
+Initial Development
+integration with `python-social-auth`
+twitter backend
+facebook backend
+
